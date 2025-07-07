@@ -9,7 +9,6 @@ import {
   SideBar
 } from './styles'
 
-import starWars from '../../assets/images/star_wars.png'
 import Tag from '../Tag'
 import { RootReducer } from '../../store'
 import { close, remove } from '../../store/reducers/cart'

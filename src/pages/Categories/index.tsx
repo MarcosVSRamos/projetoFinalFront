@@ -1,7 +1,5 @@
-import { useEffect, useState } from 'react'
 import ProductsList from '../../components/ProductsList'
-import { Game } from '../Home'
-import api from '../../services/api'
+
 import {
   useGetActionGamesQuery,
   useGetEsportsGamesQuery,

@@ -1,5 +1,10 @@
 import { useDispatch, useSelector } from 'react-redux'
 import Button from '../Button'
+import Tag from '../Tag'
+
+import { RootReducer } from '../../store'
+import { close, remove } from '../../store/reducers/cart'
+import { formataPreco } from '../ProductsList'
 import {
   CardContainer,
   CartItem,
@@ -8,11 +13,6 @@ import {
   Quantity,
   SideBar
 } from './styles'
-
-import Tag from '../Tag'
-import { RootReducer } from '../../store'
-import { close, remove } from '../../store/reducers/cart'
-import { formataPreco } from '../ProductsList'
 
 const Cart = () => {
   const { isOpen, items } = useSelector((state: RootReducer) => state.cart)

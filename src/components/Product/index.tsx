@@ -1,5 +1,6 @@
 import Tag from '../Tag'
-import { Card, Descricao, Infos, Titulo } from './styles'
+
+import { Card, Description, Infos, Title } from './styles'
 
 type Props = {
   title: string
@@ -20,7 +21,7 @@ const Product = ({
   image,
   id
 }: Props) => {
-  const getDescricao = (descricao: string) => {
+  const getDescription = (descricao: string) => {
     if (descricao.length > 95) {
       return descricao.slice(0, 92) + '...'
     }
@@ -38,10 +39,10 @@ const Product = ({
           <Tag key={info}>{info}</Tag>
         ))}
       </Infos>
-      <Titulo>{title}</Titulo>
+      <Title>{title}</Title>
       <Tag>{category}</Tag>
       <Tag>{system}</Tag>
-      <Descricao>{getDescricao(description)}</Descricao>
+      <Description>{getDescription(description)}</Description>
     </Card>
   )
 }

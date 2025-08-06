@@ -17,6 +17,10 @@ export const HeaderBar = styled.header`
   border-radius: 16px;
   margin-bottom: 80px;
 
+  h1 {
+    line-height: 0;
+  }
+
   a,
   span {
     color: ${colors.white};

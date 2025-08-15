@@ -15,7 +15,7 @@ React.js - TypeScript - Redux - AJAX - React-Router-Dom - React-Router-Hash-Link
 <br/>
 <br/>
 
-<img src="https://servidor-estatico-tawny.vercel.app/home_eplay" />
+<img src="https://servidor-estatico-tawny.vercel.app/home_eplay.png" />
 <img src="https://servidor-estatico-tawny.vercel.app/products_eplay.png" />
 
 <br/>

@@ -1,4 +1,4 @@
-##E-PLAY - Loja de Jogos On-line
+<h1>E-PLAY - Loja de Jogos On-line</h1>
 
 [Acesse o Site](https://e-play-pearl.vercel.app/)
 
@@ -9,7 +9,7 @@ O projeto simula um E-Comerce e jogos digitais, contendo: Página inicial com de
 seções de bibliotecas separadas por categorias, menu individual com galeria para cada jogo, sistema de carrinho com calculo de valor total
 e parcelas, sistema de conclusão de compra e cadastro com retorno de id do pedido.
 
-####Principais linguagens e ferramentas:
+<h3>Principais linguagens e ferramentas:</h3> <br/>
 React.js - TypeScript - Redux - AJAX - React-Router-Dom - React-Router-Hash-Link - Styled-Components
 
 <br/>

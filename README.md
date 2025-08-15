@@ -20,5 +20,5 @@ React.js - TypeScript - Redux - AJAX - React-Router-Dom - React-Router-Hash-Link
 
 <br/>
 <br/>
-Sinta-se avontade para acessar e conhecer! <br/>
+Sinta-se à vontade para acessar e conhecer! <br/>
 https://e-play-pearl.vercel.app/

@@ -4,7 +4,7 @@
 
 <br/>
 
-Este é um projeto que desenvolvi durante os módulos da etapa Fron-End do curso Full-Stack em Java na EBAC.
+Este é um projeto que desenvolvi durante os módulos da etapa Front-End do curso Full-Stack em Java na EBAC.
 O projeto simula um E-Comerce e jogos digitais, contendo: Página inicial com destaque, banners de destaque do dia (alternação altomática),
 seções de bibliotecas separadas por categorias, menu individual com galeria para cada jogo, sistema de carrinho com calculo de valor total
 e parcelas, sistema de conclusão de compra e cadastro com retorno de id do pedido.
